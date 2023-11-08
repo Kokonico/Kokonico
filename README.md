@@ -1,5 +1,5 @@
-# hi everyone
+the dev.
 
-i write python code, i guess.
+for he is the controller of hallucinations within a silicon slab.
 
-yea.
+a true hero.
