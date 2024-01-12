@@ -2,6 +2,8 @@
 
 I'm Kokonico, and I make _extrordinary_ things.
 
+_ps: all commits before 1/11/2024 (dd/mm/yyyy) are unverified, but mine._
+
 ## About
 
 I am a **self-taught** developer who mostly programs in _python_ and _ruby_.
