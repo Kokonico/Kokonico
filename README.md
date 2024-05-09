@@ -35,14 +35,14 @@ I have worked on many projects in the past, including:
 * [bad python!](https://github.com/Kokonico/bad-python)
 > Bad apple, in the terminal?
 
-* [Words](https://github.com/Kokonico/words)
-> Every word that will ever exist, ever.
+* [ObjLog](https://github.com/Kokonico/ObjLog)
+> Logging, Objectified.
 
 * [KFCR](https://github.com/Kokonico/KFCR)
 > Kokonico's Flask Chat Room
 
 * [UNIXnow](https://github.com/Kokonico/unixnow)
-> A small but sweet python package
+> unix milliseconds, in python
 
 * [AdmiralBeGone](https://github.com/Kokonico/AdmiralBeGone)
 > A small adblocker, written in JS
