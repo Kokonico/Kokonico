@@ -29,8 +29,8 @@ I am very familiar with HTML, CSS, and JS, I also can work on backends written i
 
 I have worked on many projects in the past, including:
 
-* [RdbEX](https://github.com/Kokonico/RdbEX)
-> Replit database, extended.
+* [cMusic](https://github.com/Kokonico/cMusic)
+> Finally, a good CLI music player.
 
 * [bad python!](https://github.com/Kokonico/bad-python)
 > Bad apple, in the terminal?
