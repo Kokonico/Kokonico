@@ -6,7 +6,7 @@ _ps: all commits before 1/11/2024 (dd/mm/yyyy) are unverified, but mine._
 
 ## About
 
-I am a **self-taught** developer who mostly programs in _python_ and _ruby_.
+I am a **self-taught** developer who mostly programs in _python_.
 
 ### Languages
 
@@ -18,12 +18,8 @@ I am a **self-taught** developer who mostly programs in _python_ and _ruby_.
 
 ### Python Skills
 
-I am very familiar with package structure & publishing things onto pypi.
-I also am very flexible with Flask and SQLite3 within python.
-
-### Web Development
-
-I am very familiar with HTML, CSS, and JS, I also can work on backends written in Flask.
+I am very familiar with package structure (poetry) & publishing things onto pypi.
+I also am very flexible with Flask, Django and SQLite3 within python.
 
 ## Projects
 
